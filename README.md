@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DrakBall
 - 👀 I’m interested in Augmented Reality and CyberSecurity
 - 🌱 I’m currently learning computer engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: oriolav14@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watches
 
